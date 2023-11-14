@@ -2,7 +2,7 @@ import requests
 # Set the base URL and credentials
 URL = "https://github.com/"
 username = "binlintin"
-password = "8367217An"
+password = "blank"
 
 # Your name for the message
 your_name = "An"  # Replace with your actual name
